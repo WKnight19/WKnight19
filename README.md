@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WKnight19
-- 👀 I’m interested in computer science, fullstack programming, and networks
-- 🌱 I’m currently learning Management Information Systems and Computer Science in college, running through The Odin Project in spare time.
+- 👀 I’m interested in computer science, data analytics, information systems, and networks
+- 🌱 I’m currently learning Management Information Systems and Computer Science in college
 - 💞️ I’m looking to collaborate on any open-source projects in which i could be of use
 - 📫 How to reach me: wheelerknight19@gmail.com or wbknight1@crimson.ua.edu
 - ⚡ Fun fact: I go to the University of Alabama - Roll Tide!
